@@ -1,0 +1,18 @@
+name: Spin
+main: Syphon\Spin\Main
+version: 1.0.0
+api: 5.0.0
+author: Syphon
+
+commands:
+  spin:
+    description: strat the spin
+    usage: /spin
+    permission: spin.command
+permissions:
+  spin.manage:
+    description: Permission .
+    default: op
+  spin.command:
+    description: Allows using the spin command
+    default: true

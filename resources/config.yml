@@ -1,0 +1,14 @@
+# Spin plugin configuration
+radius: 3.0
+spin-speed: 0.1
+steps-up: 40
+steps-down: 20
+
+stick-nametag: "§eSelecting §aan §bitem§c..."
+selected-nametag-prefix: "§aSelected:\n§e"
+
+items:
+  coal_block:
+    count: 2
+  dirt:
+    count: 9
