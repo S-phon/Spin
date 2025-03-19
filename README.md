@@ -4,6 +4,10 @@
 
 Spin is an exciting and customizable plugin for PocketMine servers that introduces a spinning wheel feature. Players can spin the wheel to win random items, with options to configure the radius, spin speed, and prize items.
 
+
+https://github.com/user-attachments/assets/6aa9757d-b931-4207-b24c-684ba77548ad
+
+
 ## Features
 - **Customizable Wheel**: Adjust the wheel’s radius, spin speed, and prize items via the config file.
 - **Random Rewards**: Players can win random items from a predefined list.
